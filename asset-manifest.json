@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nanjyananjya/static/css/main.0793e96a.css",
+    "main.js": "/nanjyananjya/static/js/main.7e8a253f.js",
+    "static/js/787.1d9f86d3.chunk.js": "/nanjyananjya/static/js/787.1d9f86d3.chunk.js",
+    "index.html": "/nanjyananjya/index.html",
+    "main.0793e96a.css.map": "/nanjyananjya/static/css/main.0793e96a.css.map",
+    "main.7e8a253f.js.map": "/nanjyananjya/static/js/main.7e8a253f.js.map",
+    "787.1d9f86d3.chunk.js.map": "/nanjyananjya/static/js/787.1d9f86d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0793e96a.css",
+    "static/js/main.7e8a253f.js"
+  ]
+}
